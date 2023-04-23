@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the shoppinglist.juan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: shoppinglist.juan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-23 04:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/AboutDialog.qml:7 ../qml/Main.qml:164
+msgid "About"
+msgstr ""
+
+#: ../qml/AboutDialog.qml:12
+msgid ""
+"This is an example shopping list app designed to teach you Ubuntu Touch app "
+"development course."
+msgstr ""
+
+#: ../qml/AboutDialog.qml:16
+msgid "Close"
+msgstr ""
+
+#: ../qml/Main.qml:141 shoppinglist.desktop.in.h:1
+msgid "Shopping List"
+msgstr ""
+
+#: ../qml/Main.qml:142
+msgid "Never forget what to buy"
+msgstr ""
+
+#: ../qml/Main.qml:160
+msgid "Settings"
+msgstr ""
+
+#: ../qml/Main.qml:183
+msgid "Shopping list item"
+msgstr ""
+
+#: ../qml/Main.qml:266
+msgid "Add"
+msgstr ""
+
+#: ../qml/Main.qml:301
+msgid "Remove all..."
+msgstr ""
+
+#: ../qml/Main.qml:307
+msgid "Remove selected..."
+msgstr ""
+
+#: ../qml/Main.qml:317
+msgid "Remove all items"
+msgstr ""
+
+#: ../qml/Main.qml:318 ../qml/Main.qml:328
+msgid "Are you sure?"
+msgstr ""
+
+#: ../qml/Main.qml:327
+msgid "Remove selected items"
+msgstr ""
+
+#: ../qml/OKCancelDialog.qml:10
+msgid "OK"
+msgstr ""
+
+#: ../qml/OKCancelDialog.qml:19
+msgid "Cancel"
+msgstr ""

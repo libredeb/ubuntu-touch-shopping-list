@@ -1,0 +1,15 @@
+{
+    "name": "shoppinglist.juan",
+    "description": "A simple shopping list app",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Shopping List",
+    "hooks": {
+        "shoppinglist": {
+            "apparmor": "shoppinglist.apparmor",
+            "desktop":  "shoppinglist.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Juan Lozano <libredeb@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
