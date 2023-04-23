@@ -25,7 +25,7 @@ import Ubuntu.Components.Popups 1.3
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'shoppinglist.juan'
+    applicationName: 'shoppinglist.libredeb'
     automaticOrientation: true
 
     width: units.gu(45)

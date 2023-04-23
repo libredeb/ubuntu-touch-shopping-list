@@ -1,12 +1,12 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the shoppinglist.juan package.
+# This file is distributed under the same license as the shoppinglist.libredeb package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: shoppinglist.juan\n"
+"Project-Id-Version: shoppinglist.libredeb\n"
 "Report-Msgid-Bugs-To: lozanotux@gmail.com\n"
 "POT-Creation-Date: 2023-04-20 02:25+0000\n"
 "PO-Revision-Date: 2023-04-20 02:25+0000\n"
